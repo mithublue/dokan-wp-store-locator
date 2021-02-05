@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WP Store Locator for Dokan
+ * Plugin Name: Dokan with WP Store Locator
  * Plugin URI:
  * Description: Enables store locator feature for vendor by WP Store Locator
  * Version: 1.0
