@@ -12,4 +12,8 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-The plugin is to make a bridge between WP Store Locator and dokan, so that every vendor with store created with dokan will have the store locator facility.
+The plugin is to make a bridge between <a href="https://wordpress.org/plugins/wp-store-locator/" target="_blank">WP Store Locator</a> and <a href="https://wordpress.org/plugins/dokan-lite/" target="_blank">Dokan</a>, so that every vendor with store created with dokan will have the store locator facility.
+
+[WP Store Locator](https://wordpress.org/plugins/wp-store-locator/)
+
+[Dokan Plugin](https://wordpress.org/plugins/dokan-lite/)
