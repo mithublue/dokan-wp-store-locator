@@ -2,11 +2,11 @@
 /**
  * Plugin Name: Dokan with WP Store Locator
  * Plugin URI:
- * Description: Enables store locator feature for vendor by WP Store Locator
+ * Description: Enables store locator feature for Dokan vendors by WP Store Locator
  * Version: 1.0
  * Author: CyberCraft
  * Author URI: http://cybercraftit.com/
- * Text Domain: wpsl-dokan
+ * Text Domain: wpsld
  * WC requires at least: 3.0
  * WC tested up to: 5.6
  * Domain Path: /languages/
